@@ -3,14 +3,14 @@
 toc::[]
 
 == Sumário
-* <<sobre-o-projeto>>
-* <<recursos>>
-* <<tecnologias-utilizadas>>
-* <<como-executar>>
-* <<documentação-da-api>>
-* <<contribuindo>>
-* <<licença>>
-* <<contato>>
+* **<<sobre-o-projeto>>**
+* **<<recursos>>**
+* **<<tecnologias-utilizadas>>**
+* **<<como-executar>>**
+* **<<documentação-da-api>>**
+* **<<contribuindo>>**
+* **<<licença>>**
+* **<<contato>>**
 
 == Sobre o Projeto
 
