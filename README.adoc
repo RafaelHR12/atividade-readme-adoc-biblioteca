@@ -12,7 +12,7 @@ toc::[]
 * **<<licença>>**
 * **<<contato>>**
 
-== ⚖️Sobre o Projeto
+== ⚖️ Sobre o Projeto
 
 O Sistema de Gerenciamento de Biblioteca foi desenvolvido para facilitar o
 processo de empréstimo, devolução e gerenciamento de livros em uma
@@ -21,7 +21,7 @@ disponibilidade de exemplares, cadastro de usuários e gerar relatórios de
 atividades. O sistema visa melhorar a experiência do usuário e otimizar a
 administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 
-== ⚙️Recursos
+== ⚙️ Recursos
 
 * **Cadastro e gerenciamento de livros** com informações detalhadas
 (título, autor, ISBN, etc.).
@@ -32,7 +32,7 @@ de empréstimo e devolução.
 * **Notificação de usuários** sobre empréstimos e devoluções.
 * **Sistema de login e autenticação** para administradores e usuários.
 
-== 🚀Tecnologias Utilizadas
+== 🚀 Tecnologias Utilizadas
 . **Frontend**
 * **Angular**: Framework utilizado para o desenvolvimento da
 interface de usuário, permitindo uma aplicação interativa e
@@ -50,7 +50,7 @@ informações sobre empréstimos, usuários e livros.
 * **JWT (JSON Web Tokens)**: Utilizado para garantir a segurança
 no processo de autenticação e autorização de usuários.
 
-== ⌛Como Executar
+== ⌛ Como Executar
 
 . **Clone o Repositório** +
 Clone o repositório para o seu ambiente local com o comando:
@@ -116,7 +116,7 @@ todos os endpoints disponíveis. Abaixo estão alguns dos endpoints principais:
 Para acessar a documentação completa da API no Swagger, inicie o servidor
 backend e acesse: `http://localhost:8080/swagger-ui.html`
 
-== 🧰Contribuindo
+== 🧰 Contribuindo
 
 . Faça um fork do repositório.
 . Crie uma nova branch (git checkout -b feature-nome-da-feature).
@@ -124,11 +124,11 @@ backend e acesse: `http://localhost:8080/swagger-ui.html`
 . Envie para o repositório original (git push origin feature-nome-da-feature).
 . Abra um pull request descrevendo as mudanças feitas.
 
-== ✅Licença
+== ✅ Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para
 mais detalhes.
 
-== ☎️Contato
+== ☎️ Contato
 
 Se você tiver alguma dúvida ou sugestão, entre em contato com a equipe de
 desenvolvimento:
