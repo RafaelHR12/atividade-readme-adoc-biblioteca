@@ -52,16 +52,14 @@ no processo de autenticação e autorização de usuários.
 
 == Como Executar
 
-. **Clone o Repositório**
-
+. **Clone o Repositório** +
 Clone o repositório para o seu ambiente local com o comando:
 
    ----
    git clone https://github.com/usuario/sistema-biblioteca.git
    ----
 
-. **Instale as Dependências do Frontend**
-
+. **Instale as Dependências do Frontend** +
 Navegue até o diretório do frontend e instale as dependências com npm:
 
    ----
@@ -69,8 +67,7 @@ Navegue até o diretório do frontend e instale as dependências com npm:
    npm install
    ----
 
-. **Instale as Dependências do Backend**
-
+. **Instale as Dependências do Backend** +
 Navegue até o diretório do backend e instale as dependências com Maven:
 
    ----
@@ -78,8 +75,7 @@ Navegue até o diretório do backend e instale as dependências com Maven:
    mvn install
    ----
 
-. **Configuração do Banco de Dados**
-
+. **Configuração do Banco de Dados** +
 Crie um banco de dados MySQL e configure as credenciais no arquivo `application.properties` do backend. Em seguida, execute as migrações para criar as tabelas necessárias:
 
    ----
@@ -88,24 +84,22 @@ Crie um banco de dados MySQL e configure as credenciais no arquivo `application.
    spring.datasource.password=sua_senha
    ----
 
-. **Inicie o Servidor Backend**
-
+. **Inicie o Servidor Backend** +
 Inicie o servidor do backend com o comando:
 
    ----
    mvn spring-boot:run
    ----
 
-. **Inicie o Servidor Frontend**
-
+. **Inicie o Servidor Frontend** +
 Inicie o servidor do frontend com o comando:
 
    ----
    ng serve
    ----
 
-. **Acesse a Aplicação**
-   Abra o navegador e acesse a aplicação na URL: `http://localhost:4200`.
+. **Acesse a Aplicação** +
+Abra o navegador e acesse a aplicação na URL: `http://localhost:4200`.
 
 == Documentação da API
 
