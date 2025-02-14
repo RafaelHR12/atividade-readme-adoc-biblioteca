@@ -12,7 +12,7 @@ toc::[]
 * **<<licença>>**
 * **<<contato>>**
 
-== ⚖️ Sobre o Projeto
+== 🗿 Sobre o Projeto
 
 O Sistema de Gerenciamento de Biblioteca foi desenvolvido para facilitar o
 processo de empréstimo, devolução e gerenciamento de livros em uma
@@ -21,7 +21,7 @@ disponibilidade de exemplares, cadastro de usuários e gerar relatórios de
 atividades. O sistema visa melhorar a experiência do usuário e otimizar a
 administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 
-== ⚙️ Recursos
+== 🪵 Recursos
 
 * **Cadastro e gerenciamento de livros** com informações detalhadas
 (título, autor, ISBN, etc.).
@@ -128,7 +128,7 @@ backend e acesse: `http://localhost:8080/swagger-ui.html`
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para
 mais detalhes.
 
-== ☎️ Contato
+== 📞 Contato
 
 Se você tiver alguma dúvida ou sugestão, entre em contato com a equipe de
 desenvolvimento:
