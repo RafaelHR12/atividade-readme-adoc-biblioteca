@@ -2,6 +2,16 @@
 
 toc::[]
 
+== Sumário
+* <<sobre-o-projeto>>
+* <<recursos>>
+* <<tecnologias-utilizadas>>
+* <<como-executar>>
+* <<documentação-da-api>>
+* <<contribuindo>>
+* <<licença>>
+* <<contato>>
+
 == Sobre o Projeto
 
 O Sistema de Gerenciamento de Biblioteca foi desenvolvido para facilitar o
@@ -98,6 +108,7 @@ Inicie o servidor do frontend com o comando:
    Abra o navegador e acesse a aplicação na URL: `http://localhost:4200`.
 
 == Documentação da API
+
 A API do Sistema de Gerenciamento de Biblioteca foi documentada
 utilizando **Swagger**, permitindo uma visualização interativa e detalhada de
 todos os endpoints disponíveis. Abaixo estão alguns dos endpoints principais:
@@ -124,6 +135,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para
 mais detalhes.
 
 == Contato
+
 Se você tiver alguma dúvida ou sugestão, entre em contato com a equipe de
 desenvolvimento:
 
